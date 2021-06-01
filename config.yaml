@@ -7,6 +7,6 @@ keywords:
         CV: 1
         AE: 3
         VAE: 3
-
+        
 # 通知の閾値
 score_threshold: 0
